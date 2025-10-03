@@ -7,7 +7,7 @@ The core solution involves a Random Forest Classifier model trained on resampled
 🚀 Analysis Notebook
 The complete, step-by-step analysis, including detailed EDA, preprocessing, model selection, and evaluation, is available in the following Colab notebook.
 
-➡️ Insert Colab Notebook Link Here: [[YOUR_COLAB_LINK_HERE](https://drive.google.com/file/d/1DZmkfCJpLlAuwvMril73Ezh75mC4BuvD/view?usp=sharing)] ⬅️
+➡️ Insert Colab Notebook Link Here: [[COLAB_LINK_HERE](https://drive.google.com/file/d/1DZmkfCJpLlAuwvMril73Ezh75mC4BuvD/view?usp=sharing)] ⬅️
 
 🛠️ Key Steps and Findings
 1. Data Preprocessing and Exploration
@@ -129,3 +129,4 @@ print(f"Churn Probability: {churn_probability:.2f}%")
 🔗 Colab Link Placeholder
 
 https://drive.google.com/file/d/1DZmkfCJpLlAuwvMril73Ezh75mC4BuvD/view?usp=sharing
+
