@@ -128,8 +128,6 @@ churn_probability = pred_prob[0][1] * 100
 print(f"Prediction: {result}")
 print(f"Churn Probability: {churn_probability:.2f}%")
 
-🔗 Colab Link Placeholder
 
-https://drive.google.com/file/d/1DZmkfCJpLlAuwvMril73Ezh75mC4BuvD/view?usp=sharing
 
 
