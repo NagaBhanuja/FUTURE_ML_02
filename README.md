@@ -1,4 +1,5 @@
 🎯 Telco Customer Churn Prediction using Machine Learning
+
 💡 Project Goal
 The primary objective of this project is to build a machine learning model capable of predicting customer churn for a telecommunications company. By accurately identifying customers likely to leave, the company can proactively implement retention strategies.
 
@@ -9,7 +10,7 @@ Step
 
 Description
 
-Link
+Link 
 
 View Notebook
 
@@ -104,6 +105,7 @@ To set up the environment and run the notebook locally, you need the following l
 # Clone the repository
 git clone [https://github.com/YourUsername/Telco-Churn-Prediction.git](https://github.com/YourUsername/Telco-Churn-Prediction.git)
 cd Telco-Churn-Prediction
+
 
 # Install the necessary Python packages
 pip install pandas numpy scikit-learn matplotlib seaborn imblearn xgboost
@@ -218,4 +220,5 @@ encoders = {
 }
 
 
-
+colab 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]((https://drive.google.com/file/d/1DZmkfCJpLlAuwvMril73Ezh75mC4BuvD/view?usp=sharing))
