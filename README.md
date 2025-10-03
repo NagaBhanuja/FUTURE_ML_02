@@ -1,5 +1,7 @@
 TELCO CUSTOMER CHURN PREDICTION PROJECT
+
 🎯 Project Goal
+
 This project implements a Machine Learning solution to predict customer churn for a telecommunications company. The primary goal is to identify customers at high risk of leaving so that proactive retention efforts can be launched.
 
 The core solution involves a Random Forest Classifier model trained on resampled data using SMOTE (Synthetic Minority Oversampling Technique) to account for severe class imbalance.
@@ -129,4 +131,5 @@ print(f"Churn Probability: {churn_probability:.2f}%")
 🔗 Colab Link Placeholder
 
 https://drive.google.com/file/d/1DZmkfCJpLlAuwvMril73Ezh75mC4BuvD/view?usp=sharing
+
 
